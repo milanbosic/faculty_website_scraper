@@ -20,7 +20,7 @@ pyasn1-modules==0.2.2
 python-dateutil==2.7.3
 pytz==2018.7
 requests==2.21.0
-rsa==4.0
+rsa==4.7
 six==1.11.0
 transliterate==1.10.2
 Unidecode==1.0.22
